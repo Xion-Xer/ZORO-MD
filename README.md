@@ -8,13 +8,21 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/VERSION-1.0.0-blue.svg" alt="Version"/></a>
   <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-green.svg" alt="Status"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OWNER-Aadhixd-orange.svg" alt="Owner"/></a>
+  <a href="https://github.com/A-d-i-t-h-y-a-n-x-d"><img src="https://img.shields.io/badge/DEVELOPER-Aadhi%20XD-orange.svg" alt="Developer"/></a>
+  <a href="https://www.npmjs.com/package/@aadhixd777/baileys"><img src="https://img.shields.io/badge/CORE-@aadhixd777/baileys-red.svg" alt="Core Engine"/></a>
 </p>
 
 ---
 
 ## 🌟 About ZORO-MD
-ZORO-MD is an advanced, high-performance WhatsApp bot designed for seamless automation, media management, and fun. Built with the latest technology to ensure stability and speed.
+ZORO-MD is an advanced, high-performance WhatsApp Multi-Device (MD) bot developed by **Aadhi (Aadhi XD / Adithyan)**. Designed for seamless automation, media management, and fun. 
+
+Unlike standard frameworks, ZORO-MD is natively built on **Aadhi's original core library [@aadhixd777/baileys](https://www.npmjs.com/package/@aadhixd777/baileys)**, providing maximum speed, stability, and custom Web API optimizations.
+
+## ⚙️ Core Technical Architecture
+* **Primary Engine:** Powered by Aadhi's proprietary **`@aadhixd777/baileys`** package.
+* **Developer:** Aadhi XD (`@A-d-i-t-h-y-a-n-x-d` / `@aadhixd777`).
+* **Environment:** Built on Node.js using Multi-Device pairing architecture.
 
 ## 🚀 Features
 * 📥 **Downloader:** Download media from various platforms.
@@ -27,6 +35,7 @@ ZORO-MD is an advanced, high-performance WhatsApp bot designed for seamless auto
 ## 🛠️ Requirements
 * [Node.js](https://nodejs.org/) (v16 or higher)
 * [Git](https://git-scm.com/)
+* [@aadhixd777/baileys](https://www.npmjs.com/package/@aadhixd777/baileys) (Auto-installed via `npm install`)
 * A WhatsApp Account
 
 ## ⚙️ How to Deploy
