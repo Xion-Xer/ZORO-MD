@@ -21,7 +21,7 @@ Unlike standard frameworks, ZORO-MD is natively built on **Aadhi's original core
 
 ## ⚙️ Core Technical Architecture
 * **Primary Engine:** Powered by Aadhi's proprietary **`@aadhixd777/baileys`** package.
-* **Developer:** Aadhi XD (`@A-d-i-t-h-y-a-n-x-d`).
+* **Developer:** Aadhi XD (`@A-d-i-t-h-y-a-n-x-d`) 
 * **Environment:** Built on Node.js using Multi-Device pairing architecture.
 
 ## 🚀 Features
@@ -44,7 +44,8 @@ Unlike standard frameworks, ZORO-MD is natively built on **Aadhi's original core
 3. Deploy on **Heroku**, **Render**, or **Railway**.
 
 ```bash
-git clone [https://github.com/Aadhixd777/ZORO-MD](https://github.com/Aadhixd777/ZORO-MD)
+git clone [https://github.com/Xion-Xer/ZORO-MD](https://github.com/Xion-Xer
+/ZORO-MD)
 cd ZORO-MD
 npm install
 npm start
