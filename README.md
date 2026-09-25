@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 About ZORO-MD
-ZORO-MD is an advanced, high-performance WhatsApp Multi-Device (MD) bot developed by **Aadhi (Aadhi XD / Adithyan)**. Designed for seamless automation, media management, and fun. 
+ZORO-MD is a lightweight, automated WhatsApp bot built using the Baileys library, designed to simplify and automate everyday messaging tasks
 
 Unlike standard frameworks, ZORO-MD is natively built on **Aadhi's original core library [@aadhixd777/baileys](https://www.npmjs.com/package/@aadhixd777/baileys)**, providing maximum speed, stability, and custom Web API optimizations.
 
