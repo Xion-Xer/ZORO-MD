@@ -6,17 +6,16 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mongoose": "^8.0.0",
-    "node-telegram-bot-api": "^0.66.0",
+    "@aadhixd777/baileys": "^v7.0.0-rc.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@google/generative-ai": "^0.21.0",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@aadhixd777/baileys": "^v7.0.0-rc.9",
+    "@vreden/youtube_scraper": "^1.2.9",
     "adm-zip": "^0.5.10",
     "awesome-phonenumber": "^5.9.0",
-    "axios": "^1.17.0",
+    "axios": "^1.20.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
     "combined-stream": "^1.0.8",
@@ -37,10 +36,12 @@
     "link-preview-js": "^3.0.5",
     "mathjs": "^15.1.0",
     "moment-timezone": "^0.5.43",
+    "mongoose": "^8.0.0",
     "mumaker": "^2.0.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.7.0",
     "node-id3": "^0.2.3",
+    "node-telegram-bot-api": "^0.66.0",
     "node-webpmux": "^3.1.0",
     "pino": "^8.21.0",
     "qrcode": "^1.5.4",
@@ -49,7 +50,7 @@
     "telegraf": "^4.16.3",
     "telegram": "^2.26.21",
     "ws": "^8.17.1",
-    "yt-search": "^2.12.1",
-    "youtube-dl-exec": "^3.0.7"
+    "youtube-dl-exec": "^3.0.7",
+    "yt-search": "^2.13.1"
   }
 }
