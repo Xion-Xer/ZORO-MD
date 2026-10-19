@@ -11,7 +11,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.0.0",
-  updateZipUrl: "https://github.com/Xion-Xer/ZORO-MD-MODULES-main/archive/refs/heads/main.zip",
+  updateZipUrl: "my-worker-proxyxx.sncckollam.workers.dev",
 };
 
 module.exports = settings;
