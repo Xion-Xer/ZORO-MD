@@ -1,11 +1,13 @@
+require('dotenv').config();
+
 const settings = {
   packname: 'ZORO-MD',
   author: 'Aadhixd',
   botName: "ZORO MD",
   botOwner: 'Aadhixd', 
   ownerNumber: '918136880986', 
-  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  geminiApiKey: 'AQ.Ab8RN6LccfKCQ3eyn4EfxolSkPhrpqSAJx8PDNO342qxGxv_vQ',
+  giphyApiKey: process.env.GIPHY_API_KEY,
+  geminiApiKey: process.env.GEMINI_API_KEY,
   commandMode: "public",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
