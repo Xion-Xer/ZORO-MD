@@ -1,13 +1,13 @@
 {
-  "name": "ZORO MD",
+  "name": "ADHI BROHH",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@aadhixd777/baileys": "^v7.0.0-rc.9",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ADHI BROHH/baileys": "^v7.0.0-rc.9",
+    "@ADHI BROHH/keyed-db": "^0.2.4",
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
